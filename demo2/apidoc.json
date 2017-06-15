@@ -1,0 +1,12 @@
+{
+  "name": "example-versioning",
+  "version": "0.0.2",
+  "description": "apiDoc versioning example",
+  "title": "demo接口",
+  "url" : "http://www.lightlampv2.com",
+  "sampleUrl" : "http://www.lightlampv2.com",
+  "order": ["Example","Home"],
+  "template": {
+  	"forceLanguage": "zh_cn"
+  }
+}

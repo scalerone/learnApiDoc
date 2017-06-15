@@ -1,0 +1,11 @@
+{
+  "name": "example-versioning",
+  "version": "0.0.2",
+  "description": "apiDoc versioning example",
+  "title": "demo接口",
+  "url" : "http://×××××:8080/interface",
+  "order": ["user2","Home"],
+  "template": {
+  	"forceLanguage": "zh_cn"
+  }
+}
